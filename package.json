@@ -1,0 +1,12 @@
+{
+  "name": "@pedily/karte",
+  "version": "0.0.1",
+  "description": "A web component that helps embedding map-like pan/zoom-able content to your website",
+  "repository": "git@github.com:pedily/karte.git",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Kranich",
+  "license": "MIT"
+}
